@@ -2,3 +2,5 @@ some random text
 add text with >>
 git reflog is also useful
 I deleted the branch in my local but it is still in the remote :( 
+You can always delete it from settings 
+I created it by creating a new branch in my local and pushing the updates of all 

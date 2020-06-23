@@ -1,1 +1,3 @@
 some random text
+add text with >>
+git reflog is also useful

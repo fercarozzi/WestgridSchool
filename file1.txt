@@ -1,3 +1,4 @@
 some random text
 add text with >>
 git reflog is also useful
+I deleted the branch in my local but it is still in the remote :( 
